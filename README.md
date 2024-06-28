@@ -2,4 +2,4 @@
 learn-terraform-aws-instance
 
 
-Build, change, and destroy AWS infrastructure using Terraform. Step-by-step, command-line tutorials will walk you through the Terraform basics for the first time.
+Build, change, and destroy a EC2 server AWS infrastructure using Terraform. 
