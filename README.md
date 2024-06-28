@@ -3,3 +3,4 @@ learn-terraform-aws-instance
 
 
 Build, change, and destroy a EC2 server AWS infrastructure using Terraform. 
+#   region = "us-west-2"
